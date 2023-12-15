@@ -5,8 +5,8 @@ description = "Rich-text editor for Django Wagtail CMS"
 authors = ["penkhasoveg <pen.egor2002@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/ghettoDdOS/pve-utils"
-repository = "https://github.com/ghettoDdOS/pve-utils"
+homepage = "https://github.com/ghettoDdOS/wagtail-ckeditor"
+repository = "https://github.com/ghettoDdOS/wagtail-ckeditor"
 keywords = ["wagtail", "django", "ckeditor"]
 include = [
     "LICENSE",
